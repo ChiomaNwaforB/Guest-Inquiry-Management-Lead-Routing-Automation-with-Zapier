@@ -59,6 +59,10 @@ Filter Gmail Users
       ▼
 Send Personalized Email
 
+![Workflow](zapass1.jpg)
+
+![Workflow](zapass2.jpg)
+
 # Key Features
 - Automated guest inquiry capture
 - Duplicate record detection
@@ -87,3 +91,7 @@ The automation replaced a fully manual inquiry process by:
 - Standardizing inquiry routing
 - Improving customer communication
 - Increasing operational efficiency
+
+![Image](zappass3.jpg)
+
+![Image](zappass4.jpg)
