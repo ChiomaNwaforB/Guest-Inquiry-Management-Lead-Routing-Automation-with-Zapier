@@ -85,6 +85,6 @@ The automation replaced a fully manual inquiry process by:
 - Improving customer communication
 - Increasing operational efficiency
 
-![Image](zappass3.jpeg)
+![Image](zapass3.jpeg)
 
-![Image](zappass4.jpeg)
+![Image](zapass4.jpeg)
