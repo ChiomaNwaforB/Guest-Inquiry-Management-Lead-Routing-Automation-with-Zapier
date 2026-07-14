@@ -34,34 +34,27 @@ Built a Zapier automation that:
   # Workflow
 Google Forms
       │
-      ▼
 Google Sheets Lookup
       │
-      ▼
 Guest Exists?
  ├── Yes → Update Record
  └── No  → Create Record
       │
-      ▼
 Zapier Paths
  ├── Sales
  └── Property Management
       │
-      ▼
 Notify Team
       │
-      ▼
 Formatter
       │
-      ▼
 Filter Gmail Users
       │
-      ▼
 Send Personalized Email
 
-![Workflow](zapass1.jpg)
+![Workflow](zapass1.jpeg)
 
-![Workflow](zapass2.jpg)
+![Workflow](zapass2.jpeg)
 
 # Key Features
 - Automated guest inquiry capture
@@ -92,6 +85,6 @@ The automation replaced a fully manual inquiry process by:
 - Improving customer communication
 - Increasing operational efficiency
 
-![Image](zappass3.jpg)
+![Image](zappass3.jpeg)
 
-![Image](zappass4.jpg)
+![Image](zappass4.jpeg)
